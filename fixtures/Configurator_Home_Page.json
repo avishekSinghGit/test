@@ -1,0 +1,14 @@
+{
+
+    "Configurator_Home_Page_Title" : "Gate Keeper - Configuration",
+    "Configurator_Home_Page_Locator" : "[href='configure.html']",
+    "Configurator_Jurisdictions_Page_Title" : "Configure Jurisdictions",
+    "Configurator_Jurisdictions_Page_Locator" : "[href='config-juris.html']",
+    "Configurator_User_Page_Title" : "Configure Users",
+    "Configurator_User_Page_Locator" : "[href='config-users.html']",
+    "Configurator_Auto_Approval_Denial_Rules_Page_Title" : "Configure Auto Approval/Denial Rules",
+    "Configurator_Auto_Approval_Denial_Rules_Page_Locator" : "[href='config-auto-denial-approval.html']",
+    "Configurator_Approval_Processes_Page_Title" : "Configure Approval Processes",
+    "Configurator_Approval_Processes_Page_Locator" : "[href='config-approval-process.html']"
+
+}

@@ -1,0 +1,46 @@
+{
+    "Name" : "Req Name",
+    "Name_Locator" : "#RequestorName",
+
+    "Mobile" : "1234567891",
+    "Mobile_Locator" : "#RequestorMobile",
+
+    "Valid_Email" : "Individual.Permit.Anuj@gmail.com",
+    "email" : "aa@aa.com",
+    "email_Locator" : "#RequestorEmail",
+
+    "Address" : "Req Addres",
+    "Address_Locator" : "#RequestorAddress",
+
+    "District" : "Lucknow",
+    "District_Locator" : "#RequestorDistrict",
+
+    "City" : "Aliganj",
+    "City_Locator" : "#RequestorCity",
+
+    "Neighborhood" : "Sitapur Rd",
+    "Neighborhood_Locator" : "#RequestorNeighborhood",
+
+    "Pin_Code" : "123123",
+    "Pin_Code_Locator" : "#RequestorPincode",
+
+    "Vehicle_Number" : "VN08ee888",
+    "Vehicle_Number_Locator" : "#VehicleNumber",
+
+    "Date_of_Travel" : "2020-04-28",
+    "Date_of_Travel_Locator" : "#DateOfTravel",
+
+    "From" : "10:11",
+    "From_Locator" : "#FromTime",
+
+    "To" : "11:11",
+    "To_Locator" : "#ToTime",
+
+    "Travel_Distance" : ".9",
+    "Travel_Distance_Locator" : "#TravelDistance",
+
+    "Request_Reason" : "Government Duty",
+    "Request_Reason_Locator" : "#RequestReason"
+
+    
+}

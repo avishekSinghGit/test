@@ -1,0 +1,5 @@
+{
+    "Permit_Id_Search_Column" : "[aria-label='Column Permit Id, Filter cell'] input[class='dx-texteditor-input']",
+    "Success_Button" : ".btn-success"
+
+}
